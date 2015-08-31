@@ -1,0 +1,10 @@
+TestKnowledgeLevelEnum.class
+TestPupilController.class
+TestHibernateConfiguration.class
+TestPupil.class
+TestPupilDAO.class
+TestPupilServiceImpl.class
+TestPupilDAOImpl.class
+TestWebAppConfig.class
+TestAbstractDAO.class
+TestPupilService.class

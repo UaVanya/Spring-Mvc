@@ -1,0 +1,11 @@
+web\spring\configuration\WebAppConfig.class
+web\spring\connector\PupilController.class
+web\spring\dao\AbstractDAO.class
+web\spring\entity\Pupil.class
+web\spring\service\PupilService.class
+web\spring\dao\impl\PupilDAOImpl.class
+web\spring\dao\PupilDAO.class
+web\spring\entity\KnowledgeLevelEnum.class
+web\spring\service\impl\PupilServiceImpl.class
+web\spring\configuration\WebAppInitializer.class
+web\spring\configuration\HibernateConfiguration.class
